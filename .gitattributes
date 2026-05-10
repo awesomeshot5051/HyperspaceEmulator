@@ -1,0 +1,12 @@
+Mercury.gif filter=lfs diff=lfs merge=lfs -text
+Neptune.gif filter=lfs diff=lfs merge=lfs -text
+Saturn.gif filter=lfs diff=lfs merge=lfs -text
+Sun.gif filter=lfs diff=lfs merge=lfs -text
+Uranus.gif filter=lfs diff=lfs merge=lfs -text
+Jupiter.gif filter=lfs diff=lfs merge=lfs -text
+Pluto.gif filter=lfs diff=lfs merge=lfs -text
+Start.gif filter=lfs diff=lfs merge=lfs -text
+Venus.gif filter=lfs diff=lfs merge=lfs -text
+Earth.gif filter=lfs diff=lfs merge=lfs -text
+lightspeed.gif filter=lfs diff=lfs merge=lfs -text
+Mars.gif filter=lfs diff=lfs merge=lfs -text
